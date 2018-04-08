@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{8AD5A763-30A8-40F1-9940-72F457E37D8C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/FakeData.cs">
+    <Files>
+      <File FileName="Models/Product.cs" Line="8" Column="41" />
+      <File FileName="Models/FakeData.cs" Line="6" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WebServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
