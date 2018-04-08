@@ -47,7 +47,7 @@ namespace WebServer.Controllers
         [HttpDelete("{id}")]
         public void DeleteProductByID(int id)
         {
-            if(FakeData.Products.Contains(id))
+            if(FakeData.Products.ContainsKey(id))
             {
                 FakeData.Products.Remove(id);
             }

@@ -8,3 +8,4 @@
 /Users/moopoon/Desktop/WorkSpace/WebAPI/Module3/lab01/WebServer/obj/Debug/netcoreapp2.0/WebServer.AssemblyInfo.cs
 /Users/moopoon/Desktop/WorkSpace/WebAPI/Module3/lab01/WebServer/obj/Debug/netcoreapp2.0/WebServer.dll
 /Users/moopoon/Desktop/WorkSpace/WebAPI/Module3/lab01/WebServer/obj/Debug/netcoreapp2.0/WebServer.pdb
+/Users/moopoon/Desktop/WorkSpace/WebAPI/Module3/lab01/WebServer/obj/Debug/netcoreapp2.0/WebServer.csprojResolveAssemblyReference.cache
